@@ -1,4 +1,10 @@
-## Hi there 👋
+##Who am I?
+Hi there! My name is Michele and I am here mostly to learn. 
+
+##What do I do? 
+I am currently working on my masters thesis, in which I employ ML-EAT to analyze political talk on Reddit.
+I am self thought, so things are going to be confusing!
+Almost there with the basics of Python, R will be my next adventure.
 
 <!--
 **mtn98/mtn98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
