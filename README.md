@@ -1,6 +1,6 @@
 ## Who am I?
 
-Hi there! My name is Michele and I am here mostly to learn. 
+Hi there! My name is Michele and I am here to learn. 
 
 ## What do I do?
 I am currently working on my masters thesis, in which I employ ML-EAT to analyze political talk on Reddit. 
